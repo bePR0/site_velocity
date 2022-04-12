@@ -1,1 +1,1 @@
-bepr0.github.io/site_velocity/
+https://bepr0.github.io/site_velocity/
